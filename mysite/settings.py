@@ -25,7 +25,7 @@ SECRET_KEY = 'boa-)%a&+h_1(=$7^d2690^=v4m&(n=)um8nydqljhpl=)yf)i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['joanelize.pythonanywhere.com']
 
 
 # Application definition
